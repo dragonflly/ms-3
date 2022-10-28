@@ -8,7 +8,7 @@ public class HelloController {
 
 	@GetMapping("/")
 	public String index() {
-		return "Ning's Spring Boot demo ***** microservice-3 *****\n";
+		return "Ning's Spring Boot demo ****** microservice-3 ******\n";
 	}
 
 }
